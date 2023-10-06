@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 06 17:32:16 BST 2023
+http\://localhost\:8081/repository/maven-group/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.7.0 from/to central (http\://localhost\:8081/repository/maven-group/)\: authentication failed for http\://localhost\:8081/repository/maven-group/org/springframework/boot/spring-boot-starter-parent/2.7.0/spring-boot-starter-parent-2.7.0.pom, status\: 401 Unauthorized
+@default-central-http\://localhost\:8081/repository/maven-group/.lastUpdated=1696609936369
